@@ -1,0 +1,31 @@
+{
+  "textos": {
+    "titulo_superior": "Conmigo jamás serás espectadora",
+    "texto_central": "Te amo",
+    "mensaje_placeholder": "Lo hice con amor para ti, quizas no es algo fisico, pero al menos este durará por mucho tiempo, te amo preciosa y te quiero en mi vida por mucho tiempo y me gustaria que fueramos algo mas, contigo lo quiero, que dices? Nos arriesgamos a todo?",
+    "firma_placeholder": "By.Yizan Contreras  ·  20/09/2026"
+  },
+  "colores_girasol": {
+    "petalos": ["#FFC107", "#FFCA28", "#FDD835"],
+    "centro": "#5D4037",
+    "semillas": "#3E2723"
+  },
+  "fondo": {
+    "colorPrincipal": "#020024",
+    "colorSecundario": "#04083a",
+    "colorEstrellas": "#ffffff",
+    "cantidadEstrellas": 70
+  },
+  "animacion": {
+    "cantidadFlores": 42,
+    "jitterContorno": 0.04,
+    "escalaCorazon_px": 16,
+    "offsetY_px": -16,
+    "duracionFloracionTotal_ms": 3200,
+    "duracionBloom_s": 0.6,
+    "duracionSwayMin_s": 3,
+    "duracionSwayMax_s": 6,
+    "tamanoFlorMin_px": 45,
+    "tamanoFlorMax_px": 55
+  }
+}
